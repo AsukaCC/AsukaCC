@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+http://asukaforever.com/api/counter/AsukaCC_github?type=rule34
+
 <!--
 **AsukaCC/AsukaCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
