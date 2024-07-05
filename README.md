@@ -1,10 +1,8 @@
-<div align="center">
-    <picture>
+ <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/emoji/nikke_3.GIF" />
         <source media="(prefers-color-scheme: light)" srcset="https://asukaforever.com/api/emoji/nikke_3.GIF" />
         <img alt="web counter" src="https://asukaforever.com/api/emoji/nikke_3.GIF">
-    </picture>
-</div>
+</picture>
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
    <source media="(prefers-color-scheme: light)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
