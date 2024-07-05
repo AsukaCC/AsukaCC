@@ -1,6 +1,8 @@
 ## Hi there 👋
 <picture>
-  <img alt="github contribution grid snake animation" src="http://asukaforever.com/api/counter/AsukaCC_github?type=rule34">
+   <source media="(prefers-color-scheme: dark)" srcset="http://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
+  <source media="(prefers-color-scheme: light)" srcset="http://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
+  <img alt="web counter" src="http://asukaforever.com/api/counter/AsukaCC_github?type=rule34">
 </picture>
 
 
