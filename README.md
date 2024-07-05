@@ -1,5 +1,7 @@
 <div align="center">
-   <img hight="300" width="700" alt="GIF" align="center" src="https://asukaforever.com/api/emoji/nikke_3.GIF">
+   <picture>
+      <img hight="300" width="700" alt="GIF" align="center" src="https://asukaforever.com/api/emoji/nikke_3.GIF">
+   </picture>
 </div>
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
