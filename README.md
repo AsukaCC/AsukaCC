@@ -1,10 +1,17 @@
 ## Hi there 👋
 <picture>
+  <img alt="github contribution grid snake animation" src="http://asukaforever.com/api/counter/AsukaCC_github?type=rule34">
+</picture>
+
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AsukaCC/AsukaCC/tree/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AsukaCC/AsukaCC/tree/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/AsukaCC/AsukaCC/tree/output/github-snake.svg">
 </picture>
-http://asukaforever.com/api/counter/AsukaCC_github?type=rule34
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
 **AsukaCC/AsukaCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
