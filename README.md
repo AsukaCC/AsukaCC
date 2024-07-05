@@ -1,7 +1,7 @@
  <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-        <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-        <img alt="web counter" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+        <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/emoji/nikke_2.GIF" />
+        <source media="(prefers-color-scheme: light)" srcset="https://asukaforever.com/api/emoji/nikke_2.GIF" />
+        <img alt="web counter" src="https://asukaforever.com/api/emoji/nikke_2.GIF">
 </picture>
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
