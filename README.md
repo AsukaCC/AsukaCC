@@ -3,8 +3,6 @@
 </div>
 
 
-![Image](https://asukaforever.com/api/counter/AsukaCC_github?type=rule34)
-
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AsukaCC/AsukaCC/blob/output/github-contribution-grid-snake-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AsukaCC/AsukaCC/blob/output/github-contribution-grid-snake.svg" />
