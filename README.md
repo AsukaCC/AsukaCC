@@ -1,12 +1,10 @@
 <div align="center">>
    <img   width="100%" height="atuo" alt="web counter" src="https://asukaforever.com/api/emoji/eva_1.gif">
 </div>
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
-   <source media="(prefers-color-scheme: light)" srcset="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34" />
-   <img alt="web counter" src="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34">
-</picture>
 
+<div style="text-align: center;">
+   <img alt="web counter" src="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34&timestamp=202407080901" />
+</div>
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AsukaCC/AsukaCC/blob/output/github-contribution-grid-snake-dark.svg" />
