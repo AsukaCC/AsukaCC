@@ -15,7 +15,7 @@ jobs:
       - name: Update README with new timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          sed -i "s/\(https:\/\/asukaforever.com\/api\/counter\/AsukaCC_github?type=rule34\)[^)]*/\1&timestamp=${TIMESTAMP}/" README.md
+          sed -i "s|\(https://asukaforever.com/api/counter/AsukaCC_github?type=rule34\).*|\1&timestamp=${TIMESTAMP}|" README.md
 
       - name: Commit and push changes
         run: |
