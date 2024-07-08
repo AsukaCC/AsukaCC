@@ -2,9 +2,8 @@
    <img   width="100%" height="atuo" alt="web counter" src="https://asukaforever.com/api/emoji/eva_1.gif">
 </div>
 
-<div style="text-align: center;">
-   <img alt="web counter" src="https://asukaforever.com/api/counter/AsukaCC_github?type=rule34&timestamp=202407080901" />
-</div>
+
+![Image]([https://example.com/image_v2.png](https://asukaforever.com/api/counter/AsukaCC_github?type=rule34))
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AsukaCC/AsukaCC/blob/output/github-contribution-grid-snake-dark.svg" />
