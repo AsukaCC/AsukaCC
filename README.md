@@ -1,4 +1,4 @@
-<div align="center">>
+<div align="center">
    <img   width="100%" height="atuo" alt="web counter" src="https://asukaforever.com/api/emoji/eva_1.gif">
 </div>
 
