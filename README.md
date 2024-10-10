@@ -1,7 +1,10 @@
 <div align="center">
-  <p> <a href="https://counter.jiangcheng.site/"><img src="https://counter.jiangcheng.site/api/counter/asukacc_github?type=asoul" height="100" align="right"></a></p>
+  <p>
+    <a href="https://counter.jiangcheng.site/">
+      <img src="https://counter.jiangcheng.site/api/counter/asukacc_github?type=asoul" height="100" style="display: block; margin: 0 auto;">
+    </a>
+  </p>
 </div>
-
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AsukaCC/AsukaCC/blob/output/github-contribution-grid-snake-dark.svg" />
