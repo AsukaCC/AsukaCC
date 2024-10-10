@@ -1,5 +1,5 @@
 <div align="center">
-   <img   width="100%" height="atuo" alt="web counter" src="https://asukaforever.com/api/emoji/eva_1.gif">
+   <a href="https://counter.jiangcheng.site/"><img src="https://counter.jiangcheng.site/api/counter/asukacc_github?type=asoul" height="100" align="right"></a>
 </div>
 
 
