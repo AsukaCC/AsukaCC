@@ -1,5 +1,5 @@
  <a href="https://counter.jiangcheng.site/">
-      <img src="https://counter.jiangcheng.site/api/counter/asukacc_github?type=asoul" height="100" style="display: block; margin: 0 auto;">
+      <img src="https://counter.jiangcheng.site/api/counter/test?type=asoul" height="100" style="display: block; margin: 0 auto;">
     </a>
 
 <picture>
