@@ -1,4 +1,4 @@
- <a href="https://counter.jiangcheng.site/">
+ <a href="https://api.jiangcheng.site/">
       <img src="https://api.jiangcheng.site/api/counter?name=asukacc_github&theme=asoul" height="100" style="display: block; margin: 0 auto;">
     </a>
 
